@@ -1,0 +1,8 @@
+//
+// Created by ZAMA2 on 02.05.2020.
+//
+
+#ifndef LCP1_0_DECODER_LCP1_0_DECODER_H
+#define LCP1_0_DECODER_LCP1_0_DECODER_H
+
+#endif //LCP1_0_DECODER_LCP1_0_DECODER_H

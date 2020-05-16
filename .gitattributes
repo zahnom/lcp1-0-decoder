@@ -1,2 +1,2 @@
 googletest/* linguist-vendored=true
-test/* linguist-vendored=true
+tests/* linguist-vendored=true
